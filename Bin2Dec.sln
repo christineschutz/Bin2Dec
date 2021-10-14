@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bin2Dec", "Bin2Dec\Bin2Dec.csproj", "{0B2905D9-4DC9-4117-A24E-F6E0D25D72D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B2905D9-4DC9-4117-A24E-F6E0D25D72D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2905D9-4DC9-4117-A24E-F6E0D25D72D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2905D9-4DC9-4117-A24E-F6E0D25D72D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2905D9-4DC9-4117-A24E-F6E0D25D72D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {101962C6-816C-444C-ABB3-8055C3FE5457}
+	EndGlobalSection
+EndGlobal
